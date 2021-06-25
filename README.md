@@ -5,4 +5,4 @@ Dataset utilizzati per il progetto "Pandemia senza documenti":
 
 * tesserini STP Emilia-Romagna - attivazioni 2018-2021 > fonte primaria: Regione Emilia-Romagna (tramite modulo di accesso civico generalizzato)
 
-* tesserini STP Lazio - attivazioni 2018-2021 e attivi al 31-12-2020 > fonte primaria: Regione Lazio (tramite modulo di accesso civico generalizzat
+* tesserini STP Lazio - attivazioni 2018-2021 e attivi al 31-12-2020 > fonte primaria: Regione Lazio (tramite modulo di accesso civico generalizzato)
