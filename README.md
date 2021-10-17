@@ -9,4 +9,4 @@
 
 * **tesserini STP Lazio - attivazioni 2018-2021 e attivi al 31-12-2020** > fonte primaria: Regione Lazio (tramite modulo di accesso civico generalizzato). In questi dataset ci sono i dati relativi a cittadinanza, genere, fascia d’età, ente sanitario di riferimento, data di registrazione (anno e mese di riferimento) dei codici Stp rilasciati in Lazio e di quelli attivi al 31.12.2020. 
 
-* **regioni aperte** alle vaccinazioni stp.csv > fonte: ricerca autonoma sui siti di prenotazione vaccini delle Regioni italiane. In questo file c’è l’elenco delle regioni italiane e lo stato dell’arte al 1 luglio 2021 della possibilità di accesso alla prenotazione del vaccini anti Covid con Stp e altri codici diversi da tessera sanitaria, codice fiscale o Spid
+* **regioni aperte alle vaccinazioni stp** > fonte: ricerca autonoma sui siti di prenotazione vaccini delle Regioni italiane. In questo file c’è l’elenco delle regioni italiane e lo stato dell’arte al 1 luglio 2021 della possibilità di accesso alla prenotazione del vaccini anti Covid con Stp e altri codici diversi da tessera sanitaria, codice fiscale o Spid
